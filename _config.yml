@@ -1,5 +1,4 @@
 title: Stav Hirshenzon
 description: Github page for python bootcamp course.
-show_downloads: true
-google_analytics:
+show_downloads: false
 theme: jekyll-theme-architect
