@@ -3,5 +3,5 @@
 * I'm Stav Hirshenzon
 * Graduate student from Neeman's lab in the [Weizmann institute of science](https://www.weizmann.ac.il/pages/)
 
-* I study Transglutaminase 2 as a modulator of oxygen deprivation in syncytiotrophoblast
-![image](https://github.com/stavhir/stavhir.github.io/assets/157274627/9fd4375d-9572-4540-93ad-11a9a7c258a6)
+* I study the protein Transglutaminase 2 and it's role in regulation of oxygen deprivation in syncytiotrophoblast as the hypoxic conditions in Preeclampsia
+![image](https://images.squarespace-cdn.com/content/v1/593adddf725e25a4294e8028/1581735927651-IT9R1X14BT0CJ69DEUKG/Preeclampsia+symptoms+by+Dr+Cilein+Kearns+Artibiotics+v16+72dpi+1600px.jpg?format=2500w)
